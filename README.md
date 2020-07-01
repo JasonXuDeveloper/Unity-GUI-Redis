@@ -2,11 +2,7 @@
 
 An Unity Plugin which enhances productivity for developers who are using Redis.
 
-### Menu
-
-[TOC]
-
-
+[中文请点这里](#GUI Redis 中文说明)
 
 ### Features
 
