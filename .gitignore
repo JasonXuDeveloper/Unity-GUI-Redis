@@ -1,0 +1,46 @@
+
+.DS_Store
+Demo/.idea/.idea.JEngine.Redis/.idea/encodings.xml
+Demo/.idea/.idea.JEngine.Redis/.idea/indexLayout.xml
+Demo/.idea/.idea.JEngine.Redis/.idea/misc.xml
+Demo/.idea/.idea.JEngine.Redis/riderModule.iml
+Demo/.vs/JEngine.Redis/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+Demo/.vs/JEngine.Redis/xs/project-cache/Assembly-CSharp-Editor-Release.json
+Demo/.vs/JEngine.Redis/xs/sqlite3/db.lock
+Demo/.vs/JEngine.Redis/xs/sqlite3/storage.ide
+Demo/.vs/JEngine.Redis/xs/UserPrefs.xml
+*.meta
+Source Code/.vs/GUI_Redis/xs/project-cache/GUI_Redis-Debug|anycpu.json
+Source Code/.vs/GUI_Redis/xs/project-cache/GUI_Redis-Release|anycpu.json
+Source Code/.vs/GUI_Redis/xs/sqlite3/db.lock
+Source Code/.vs/GUI_Redis/xs/sqlite3/storage.ide
+Source Code/.vs/GUI_Redis/xs/UserPrefs.xml
+Source Code/packages/System.Numerics.Vectors.4.5.0/ref/uap10.0.16299/_._
+Source Code/packages/System.Numerics.Vectors.4.5.0/ref/xamarinios10/_._
+Source Code/packages/System.Numerics.Vectors.4.5.0/ref/xamarinmac20/_._
+Source Code/packages/System.Numerics.Vectors.4.5.0/ref/xamarintvos10/_._
+Source Code/packages/System.Numerics.Vectors.4.5.0/ref/xamarinwatchos10/_._
+Source Code/packages/System.Numerics.Vectors.4.5.0/System.Numerics.Vectors.4.5.0.nupkg
+Source Code/packages/System.Numerics.Vectors.4.5.0/THIRD-PARTY-NOTICES.TXT
+Source Code/packages/System.Numerics.Vectors.4.5.0/useSharedDesignerContext.txt
+Source Code/packages/System.Numerics.Vectors.4.5.0/version.txt
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/.signature.p7s
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/net461/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/LICENSE.TXT
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/net461/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/System.Runtime.CompilerServices.Unsafe.4.5.3.nupkg
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/THIRD-PARTY-NOTICES.TXT
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/useSharedDesignerContext.txt
+Source Code/packages/System.Runtime.CompilerServices.Unsafe.4.5.3/version.txt

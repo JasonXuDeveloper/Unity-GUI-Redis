@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Redis", "GUI_Redis\GUI_Redis.csproj", "{CFFB3466-AF9D-4D26-89A7-C49D3B2DDC5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFB3466-AF9D-4D26-89A7-C49D3B2DDC5C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CFFB3466-AF9D-4D26-89A7-C49D3B2DDC5C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CFFB3466-AF9D-4D26-89A7-C49D3B2DDC5C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CFFB3466-AF9D-4D26-89A7-C49D3B2DDC5C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
