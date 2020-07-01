@@ -1,8 +1,7 @@
 # GUI Redis
 
 An Unity Plugin which enhances productivity for developers who are using Redis.
-
-[中文请点这里](#GUI Redis 中文说明)
+[中文请点这里](#中文说明)
 
 ### Features
 
@@ -151,7 +150,7 @@ If you have any issues,
 - Please follow [jason_the_developer](https://www.instagram.com/jason_the_programmer/) at instagram and send me messages
 - Or, submit new issue on github page
 
-# GUI Redis 中文说明
+# 中文说明
 
 一个可以提高使用Redis数据库开发游戏的效率的Unity插件
 
