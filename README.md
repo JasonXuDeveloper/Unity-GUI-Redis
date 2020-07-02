@@ -27,7 +27,7 @@ An Unity Plugin which enhances productivity for developers who are using Redis.
 
 ---
 
-1. <a href="GUI Redis.unitypackage" target="_blank">Download the unity package here.</a>
+1. <a href="https://github.com/JasonXuDeveloper/Unity-GUI-Redis/raw/master/Unity-GUI-Redis.unitypackage" target="_blank">Download the unity package here.</a>
 
 2. Import the package to your Unity Project.
 
@@ -169,7 +169,7 @@ If you have any issues,
 
 ---
 
-1. <a href="GUI Redis.unitypackage" target="_blank">从这里下载Unity插件包</a>
+1. <a href="https://github.com/JasonXuDeveloper/Unity-GUI-Redis/raw/master/Unity-GUI-Redis.unitypackage" target="_blank">从这里下载Unity插件包</a>
 
 2. 将插件包导入Unity
 
