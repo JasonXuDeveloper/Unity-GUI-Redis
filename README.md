@@ -1,12 +1,8 @@
 # GUI Redis
 
 An Unity Plugin which enhances productivity for developers who are using Redis.
-
-### Menu
-
-[TOC]
-
-
+<br>
+[中文请点这里](#中文说明)
 
 ### Features
 
@@ -37,19 +33,19 @@ An Unity Plugin which enhances productivity for developers who are using Redis.
 
 3. When unity finishes processing the new dll, click on JEngine/GUI Redis on the menu.
 
-   <img src="Docs/Menu.png" alt="Menu Quick Show" style="zoom:50%;" />
+   ![menu](Docs/Menu.png)
 
 4. A window should pop up with Chinese, if you can't read Chinese, don't worry, go to Language and choose English, so that you will be able to understand all the features.
 
-   <img src="Docs/Preview.png" alt="Menu Quick Show" style="zoom:50%;" />
+   ![preview](Docs/Preview.png)
 
 5. Go to your server and check your config of Redis, go to the part with bind.
 
-   <img src="Docs/RedisConfig.png" alt="Menu Quick Show" style="zoom:50%;" />
+   ![config](Docs/RedisConfig.png)
 
    > Note that if you don't want to connect Redis via SSH, comment bind part and change protected-mode on config to no
    >
-   > <img src="Docs/RedisConfig.png" alt="Menu Quick Show" style="zoom:50%;" />
+   > ![note1](Docs/Note1.png)
 
 6. Now, go back to Unity, and GUI Redis window.
 
@@ -61,7 +57,7 @@ An Unity Plugin which enhances productivity for developers who are using Redis.
 
    > Note that test connection will be running of main thread of Unity, which might make Unity unresponding but it is actually running.
 
-   <img src="Docs/Alert.png" alt="Menu Quick Show" style="zoom:50%;" />
+   ![alert](Docs/Alert.png)
 
 10. As usual, Unity will pop up a dialog which tells you whether successfully connected or not, if not, please check the console which will give you the error message
 
@@ -74,7 +70,7 @@ An Unity Plugin which enhances productivity for developers who are using Redis.
 
 12. Click on **Refresh Keys**, and all keys in database will pop up
 
-    <img src="Docs/RefreshKey.png" alt="Menu Quick Show" style="zoom:50%;" />
+    ![keys](Docs/RefreshKey.png)
 
 13. Now, you can whether add new data into your database, or modify any data in the list.
 
@@ -136,15 +132,6 @@ ___
 
 
 
-### DEMO Video
-
-___
-
-<video>
-   <source id="mp4" src="Docs/Demo.mp4" type="video/mp4">
-</video>
-
-
 
 ### Issues
 
@@ -155,7 +142,7 @@ If you have any issues,
 - Please follow [jason_the_developer](https://www.instagram.com/jason_the_programmer/) at instagram and send me messages
 - Or, submit new issue on github page
 
-# GUI Redis 中文说明
+# 中文说明
 
 一个可以提高使用Redis数据库开发游戏的效率的Unity插件
 
@@ -188,19 +175,19 @@ If you have any issues,
 
 3. 当Unity加载好新的Dll，点击顶部菜单栏中JEngine/GUI Redis
 
-   <img src="Docs/Menu.png" alt="Menu Quick Show" style="zoom:50%;" />
+  ![menu](Docs/Menu.png)
 
 4. 点击后，会弹出一个窗口
 
-   <img src="Docs/Preview.png" alt="Menu Quick Show" style="zoom:50%;" />
+    ![preview](Docs/Preview.png)
 
 5. 在使用插件之前，请登入服务器，查看Redis的配置文件中含有bind的部分
 
-   <img src="Docs/RedisConfig.png" alt="Menu Quick Show" style="zoom:50%;" />
+   ![config](Docs/RedisConfig.png)
 
    > 注意：如果你不想通过SSH连接数据库，那么bind需要被注释掉，protected-mode必须为no
    >
-   > <img src="Docs/RedisConfig.png" alt="Menu Quick Show" style="zoom:50%;" />
+   > ![note1](Docs/Note1.png)
 
 6. 回到Unity的GUI Redis窗口
 
@@ -213,7 +200,7 @@ If you have any issues,
 
    > 需要注意的是，测试连接将运行在Unity主线程，如果连接的慢，会导致Unity无响应，这是正常的
 
-   <img src="Docs/Alert.png" alt="Menu Quick Show" style="zoom:50%;" />
+   ![alert](Docs/Alert.png)
 
 10. 如图所见，Unity会出现一个弹窗告知你连接状态，如果连接失败，请在控制台查看错误原因
 
@@ -226,7 +213,7 @@ If you have any issues,
 
 12. 点击**刷新Keys**，该数据库中全部Keys会出现在左侧
 
-    <img src="Docs/RefreshKey.png" alt="Menu Quick Show" style="zoom:50%;" />
+    ![keys](Docs/RefreshKey.png)
 
 13. 现在，你可以在Unity中对你的Redis数据库进行增删改查了！
 
@@ -286,15 +273,6 @@ ___
 - .net环境：.net 4.6
 - 操作系统： MacOS 10.15.5
 
-
-
-### 演示视频
-
-___
-
-<video>
-   <source id="mp4" src="Docs/Demo.mp4" type="video/mp4">
-</video>
 
 
 
