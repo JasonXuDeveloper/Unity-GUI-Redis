@@ -129,6 +129,7 @@ namespace JEngine.Redis
                 {
                     CurrentValue = "";
                     CurrentKey = "";
+                    SelectedKey = "";
                     this.Repaint();
                 }
                 GUILayout.Space(10);
@@ -182,7 +183,7 @@ namespace JEngine.Redis
                 GUILayout.EndScrollView();
                 GUILayout.Space(10);
                 GUILayout.BeginHorizontal();
-                if (CurrentKey != "" && CurrentValue != "")
+                if (CurrentKey != "" && CurrentValue != "" && SelectedKey!= "")
                 {
                     if (GUILayout.Button("保存"))
                     {
