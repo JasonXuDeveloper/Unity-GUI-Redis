@@ -1,6 +1,6 @@
 # GUI Redis
 
-An Unity Plugin which enhances productivity for developers who are using Redis.
+A Unity Plugin which enhances productivity for developers who are using Redis.
 <br>
 [中文请点这里](#中文说明)
 
