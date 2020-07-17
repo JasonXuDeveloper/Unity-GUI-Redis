@@ -5,7 +5,6 @@ A Unity Plugin which enhances productivity for developers who are using Redis.
 [中文请点这里](#中文说明)
 
 ### Features
-<hr>
 
 - Connect to Redis Server Directly
 - Connect to Redis Server through SSH Tunel (Safer way)
@@ -23,7 +22,6 @@ A Unity Plugin which enhances productivity for developers who are using Redis.
 
 
 ### Quick Start
-<hr>
 
 1. <a href="https://github.com/JasonXuDeveloper/Unity-GUI-Redis/raw/master/Unity-GUI-Redis.unitypackage" target="_blank">Download the unity package here.</a>
 
@@ -43,7 +41,7 @@ A Unity Plugin which enhances productivity for developers who are using Redis.
 
    > Note that if you don't want to connect Redis via SSH, comment bind part and change protected-mode on config to no
    >
-   > ![note1](Docs/Note1.png)
+   > ![note1](https://github.com/JasonXuDeveloper/Unity-GUI-Redis/blob/master/Docs/Note1.png?raw=true)
 
 6. Now, go back to Unity, and GUI Redis window.
 
@@ -75,7 +73,6 @@ A Unity Plugin which enhances productivity for developers who are using Redis.
     
 
 ### Why Use GUI Redis
-<hr>
 
 
 Just like the intro, **GUI Redis** enhanced the performance while game developing, developers are able to modify their data when they debugging the game, which means efficiency has been enhanced.
@@ -85,7 +82,6 @@ As we all know, Unity has its main thread which runs *every Unity things*, if so
 
 
 ### What will come up next
-<hr>
 
 - Brand New Debugging System (Not using Debug.Log anymore, logs will not show in Unity Editor Console any longer, a new Console will be invented)
 - Optimized algorithm which boost up the speed to connect to Redis
@@ -95,7 +91,6 @@ As we all know, Unity has its main thread which runs *every Unity things*, if so
 
 
 ### Direcory Structure
-<hr>
 
 ```
 ├── Demo                        // Unity Demo
@@ -108,7 +103,6 @@ As we all know, Unity has its main thread which runs *every Unity things*, if so
 
 
 ### Depencies
-<hr>
 
 > Note all depencies GUI Redis used is open-sourced
 
@@ -118,7 +112,6 @@ As we all know, Unity has its main thread which runs *every Unity things*, if so
 
 
 ### Development Environment
-<hr>
 
 - Debuging Unity Engine Version: 2019.3.13f1
 - .net Environment: .net 4.6
@@ -128,12 +121,14 @@ As we all know, Unity has its main thread which runs *every Unity things*, if so
 
 
 ### Issues
-<hr>
 
 If you have any issues,
 
 - Please follow [jason_the_developer](https://www.instagram.com/jason_the_programmer/) at instagram and send me messages
 - Or, submit new issue on github page
+
+### Strongly Recommend
+- [JEngine](https://github.com/JasonXuDeveloper/JEngine) A streamlined and easy-to-use framework base on XAsset & ILRuntime which supports hot-update codes and resources in Unity.
 
 
 <br>
@@ -145,7 +140,6 @@ If you have any issues,
 一个可以提高使用Redis数据库开发游戏的效率的Unity插件
 
 ### 功能
-<hr>
 
 - 直连Redis数据库
 - 通过SSH连接Redis数据库（更安全）
@@ -163,7 +157,6 @@ If you have any issues,
 
 
 ### 快速上手
-<hr>
 
 1. <a href="https://github.com/JasonXuDeveloper/Unity-GUI-Redis/raw/master/Unity-GUI-Redis.unitypackage" target="_blank">从这里下载Unity插件包</a>
 
@@ -183,7 +176,7 @@ If you have any issues,
 
    > 注意：如果你不想通过SSH连接数据库，那么bind需要被注释掉，protected-mode必须为no
    >
-   > ![note1](Docs/Note1.png)
+   > ![note1](https://github.com/JasonXuDeveloper/Unity-GUI-Redis/blob/master/Docs/Note1.png?raw=true)
 
 6. 回到Unity的GUI Redis窗口
 
@@ -216,7 +209,6 @@ If you have any issues,
     
 
 ### 为什么使用GUI Redis
-<hr>
 
 如图介绍所言，**GUI Redis**大幅度提高了针对使用Redis作为数据库的游戏项目的开发效率，开发者可以在游戏运行的同时，操作可视化数据，并不需要在远程连接服务器，或下载其他软件来操作数据。
 
@@ -225,7 +217,6 @@ If you have any issues,
 
 
 ### 接下来会实现什么
-<hr>
 
 - 全新的控制台（不再使用Unity自带的控制台）
 - 优化算法，提高Redis速度
@@ -235,20 +226,18 @@ If you have any issues,
 
 
 ### 目录结构
-<hr>
 
 ```
 ├── Demo                        // Unity 演示
 ├── Docs                        // markdown文件引用的图片和视频
 ├── Source Code                 // 插件源码
-├── README.md										// Markdown文件
-├── GUI Redis.unitypackage			// Unity插件包
+├── README.md                   // Markdown文件
+├── GUI Redis.unitypackage      // Unity插件包
 ```
 
 
 
 ### 依赖项
-<hr>
 
 > 注意，GUI Redis使用的全部依赖性都是开源的
 
@@ -258,7 +247,6 @@ If you have any issues,
 
 
 ### 开发环境
-<hr>
 
 - 测试Unity版本：2019.3.13f1
 - .net环境：.net 4.6
@@ -268,10 +256,13 @@ If you have any issues,
 
 
 ### 问题反馈
-<hr>
 
 有问题请：
 
 - 加作者QQ：2313551611
   并标明是从Github来反馈问题的！
 - 或在Github提交issues！
+
+
+### 强力推荐
+- [JEngine](https://github.com/JasonXuDeveloper/JEngine) 一个基于XAsset&ILRuntime，精简好用的热更框架
