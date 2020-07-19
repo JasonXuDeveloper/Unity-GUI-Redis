@@ -1,6 +1,10 @@
 # GUI Redis
 
 A Unity Plugin which enhances productivity for developers who are using Redis.
+<br><br>
+**Important NOTE:** GUI Redis has now combined into **[JEngine](https://github.com/JasonXuDeveloper/JEngine)**
+<br>
+JEngine is a streamlined and easy-to-use framework in Unity which provides hot-update solution and unique lifecycles of UI, it is a framwork which enhances your productivity of developement and th performence of your project
 <br>
 [中文请点这里](#中文说明)
 
