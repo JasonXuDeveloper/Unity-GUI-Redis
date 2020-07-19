@@ -143,7 +143,7 @@ If you have any issues,
 
 一个可以提高使用Redis数据库开发游戏的效率的Unity插件
 <br><br>
-**注意：** 该插件已和**[JEngine框架](https://github.com/JasonXuDeveloper/JEngine)**合并
+**注意：** 该插件已和[**JEngine框架**](https://github.com/JasonXuDeveloper/JEngine)合并
 <br>
 JEngine是一个精简易用的Unity框架，提高完善高效的热更方案以及独特的UI生命周期。JEngine框架可以提高您开发效率以及提高您项目的性能
 <br>
